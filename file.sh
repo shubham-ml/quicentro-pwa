@@ -1,35 +1,34 @@
-ng generate component 404.html
-ng generate component about-us.html
-ng generate component add-cart.html
-ng generate component blog-masonry.html
-ng generate component blog-q.html
-ng generate component category-grid.html
-ng generate component category-listview.html
-ng generate component checkout-q.html
-ng generate component coming-soon.html
-ng generate component contact-us.html
-ng generate component create-account.html
-ng generate component customer-profile.html
-ng generate component delivery-shipping.html
-ng generate component faq-q.html
-ng generate component index.html
-ng generate component order-placed.html
-ng generate component product-detail.html
-ng generate component product-detail1.html
-ng generate component product-detail2.html
-ng generate component product-detail3.html
-ng generate component product-list.html
-ng generate component product.html
-ng generate component reset-password.html
-ng generate component return-and-exchange.html
-ng generate component sale.html
-ng generate component search-page-grid.html
-ng generate component search-page.html
-ng generate component sell-on-quicentro.html
-ng generate component single.html
-ng generate component terms-conditions.html
-ng generate component today-deals.html
-ng generate component track-order.html
-ng generate component vendor-details.html
-ng generate component vendor-registration.html
-ng generate component wishlist-q.html
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/about-us.html               /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/about-us/about-us.component.html               
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/add-cart.html               /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/add-cart/add-cart.component.html               
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/blog-masonry.html           /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/blog-masonry/blog-masonry.component.html           
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/blog-q.html                 /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/blog-q/blog-q.component.html                 
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/category-grid.html          /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/category-grid/category-grid.component.html          
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/category-listview.html      /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/category-listview/category-listview.component.html      
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/checkout-q.html             /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/checkout-q/checkout-q.component.html             
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/coming-soon.html            /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/coming-soon/coming-soon.component.html            
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/contact-us.html             /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/contact-us/contact-us.component.html             
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/create-account.html         /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/create-account/create-account.component.html         
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/customer-profile.html       /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/customer-profile/customer-profile.component.html       
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/delivery-shipping.html      /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/delivery-shipping/delivery-shipping.component.html      
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/faq-q.html                  /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/faq-q/faq-q.component.html                  
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/index.html                  /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/index.component/index.component.html                  
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/order-placed.html           /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/order-placed/order-placed.component.html           
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product-detail.html         /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product-detail/product-detail.component.html         
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product-detail1.html        /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product-detail1/product-detail1.component.html        
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product-detail2.html        /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product-detail2/product-detail2.component.html        
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product-detail3.html        /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product-detail3/product-detail3.component.html        
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product-list.html           /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product-list/product-list.component.html           
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/product.html                /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/product.component/product.component.html                
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/reset-password.html         /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/reset-password/reset-password.component.html         
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/return-and-exchange.html    /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/return-and/return-and-exchange.component.html    
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/sale.html                   /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/sale.component/sale.component.html                   
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/search-page-grid.html       /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/search-page/search-page-grid.component.html       
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/search-page.html            /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/search-page/search-page.component.html            
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/sell-on-quicentro.html      /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/sell-on/sell-on-quicentro.component.html      
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/single.html                 /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/single.component/single.component.html                 
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/terms-conditions.html       /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/terms-conditions/terms-conditions.component.html       
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/today-deals.html            /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/today-deals/today-deals.component.html            
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/track-order.html            /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/track-order/track-order.component.html            
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/vendor-details.html         /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/vendor-details/vendor-details.component.html         
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/vendor-registration.html    /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/vendor-registration/vendor-registration.component.html    
+cp /Users/shubham/Documents/quicentro_angular/ecommerce-final-html/wishlist-q.html             /Users/shubham/Documents/quicentro_angular/awesome-sauce/src/app/wishlist-q/wishlist-q.component.html
